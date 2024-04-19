@@ -35,7 +35,4 @@ The following classification models are used to classify messages:
 
 The performance of each classifier is evaluated using accuracy and precision scores.
 
-## Usage
-
-1. Clone the repository:
 
